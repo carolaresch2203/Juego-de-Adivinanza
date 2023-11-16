@@ -30,7 +30,7 @@ body {
 
   footer{
     text-align: center;
-    background-color: #4CAF50;
+   background-color: #4CAF50;
     color: white;
     bottom: 0;
     width: 100%;
@@ -38,8 +38,8 @@ body {
 }
 
 
-.fa-icon{
+a.fa-icon{
   color: white;
-  text-align: center;
+ 
 }
   
